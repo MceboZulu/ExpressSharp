@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+    <PackageId>ExpressSharp</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Mcebo Zulu</Authors>
+    <Company>Mcebo_Zulu</Company>
+    <Description>Express.js-style fluent API for building minimal ASP.NET Core web apps.</Description>
+    <PackageTags>express aspnetcore minimal fluent middleware webapi</PackageTags>
+    <RepositoryUrl>https://github.com/MceboZulu/ExpressSharp</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.2.8" />
+  </ItemGroup>
+
+</Project>

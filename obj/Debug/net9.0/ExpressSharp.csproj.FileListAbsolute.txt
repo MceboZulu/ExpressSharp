@@ -1,0 +1,13 @@
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\ExpressSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\ExpressSharp.AssemblyInfoInputs.cache
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\ExpressSharp.AssemblyInfo.cs
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\ExpressSharp.csproj.CoreCompileInputs.cache
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\bin\Debug\net9.0\ExpressSharp.deps.json
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\bin\Debug\net9.0\ExpressSharp.dll
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\bin\Debug\net9.0\ExpressSharp.pdb
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\bin\Debug\net9.0\ExpressSharp.xml
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\ExpressSharp.dll
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\refint\ExpressSharp.dll
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\ExpressSharp.xml
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\ExpressSharp.pdb
+C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\obj\Debug\net9.0\ref\ExpressSharp.dll
