@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Express.js-style fluent API for building minimal ASP.NET Core web apps.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+652c3d44ccf0df104b3136f5f32945fc1cc9ac6a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77b413df1f61bbc601ba38215045130add574ebb")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExpressSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExpressSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
