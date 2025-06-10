@@ -1,8 +1,8 @@
-# ExpressSharp
+# ExpressApp
 
 > 🧭 A lightweight, Express.js-style fluent API for building minimal web apps in ASP.NET Core.
 
-**ExpressSharp** brings the simplicity of Node.js + Express to the .NET ecosystem — making it faster and more intuitive to build minimal web APIs using a fluent, handler-first approach.
+**ExpressApp** brings the simplicity of Node.js + Express to the .NET ecosystem — making it faster and more intuitive to build minimal web APIs using a fluent, handler-first approach.
 
 ---
 
@@ -21,4 +21,4 @@
 ### 1. Install the NuGet Package
 
 ```bash
-dotnet add package ExpressSharp
+dotnet add package ExpressApp
