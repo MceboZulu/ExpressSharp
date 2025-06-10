@@ -10,7 +10,7 @@
     <PackageId>ExpressSharp</PackageId>
     <Version>1.0.0</Version>
     <Authors>Mcebo Zulu</Authors>
-    <Company>Mcebo_Zulu</Company>
+    <Company>Mcebo-Zulu</Company>
     <Description>Express.js-style fluent API for building minimal ASP.NET Core web apps.</Description>
     <PackageTags>express aspnetcore minimal fluent middleware webapi</PackageTags>
     <RepositoryUrl>https://github.com/MceboZulu/ExpressSharp</RepositoryUrl>

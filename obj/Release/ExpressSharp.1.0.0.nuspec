@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExpressSharp</id>
+    <version>1.0.0</version>
+    <authors>Mcebo Zulu</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Express.js-style fluent API for building minimal ASP.NET Core web apps.</description>
+    <tags>express aspnetcore minimal fluent middleware webapi</tags>
+    <repository type="git" url="https://github.com/MceboZulu/ExpressSharp" commit="64532edd7c34ba4a9ffb272c6c2e5f7be7d6addf" />
+    <dependencies>
+      <group targetFramework="net9.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net9.0">
+        <frameworkReference name="Microsoft.AspNetCore.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\bin\Release\net9.0\ExpressSharp.dll" target="lib\net9.0\ExpressSharp.dll" />
+    <file src="C:\Users\Mcebo\Documents\Development\ExpressSharpSolution\ExpressSharp\bin\Release\net9.0\ExpressSharp.xml" target="lib\net9.0\ExpressSharp.xml" />
+  </files>
+</package>
